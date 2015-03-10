@@ -41,7 +41,7 @@ public class HomeScreen extends ActionBarActivity {
             @Override
             public void onClick(View v) {
 
-                r1.setBackgroundColor(Color.GREY);
+                r1.setBackgroundColor(Color.GREEN);
                 textView.setBackgroundColor(Color.BLUE);
             }
         });
